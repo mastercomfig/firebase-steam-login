@@ -39,7 +39,7 @@
     "typescript": "^2.4.1"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "body-parser": "^1.17.2",
     "change-case": "^3.0.1",
     "compression": "^1.6.2",
